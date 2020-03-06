@@ -56,7 +56,7 @@ This option allows a user to change their username, and keep all of favorite "Po
 #### Switch user
 This option allows the current user to switch to another account if it has previously been created from their local machine. If the username does not exist, "Pokedex" will create a new username with the username entered.
 
-#### Goodbye
+#### I'm done
 This last option exits the application and returns you to your terminal's shell.
 
 ### Youtube Demo Link
